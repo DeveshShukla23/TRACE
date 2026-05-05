@@ -17,7 +17,7 @@
 
 <br>
 
-![Status](https://img.shields.io/badge/Status-Live-FF0000?style=for-the-badge&labelColor=0A0A0A)
+[![Live App](https://img.shields.io/badge/Live-trace--analyzer.streamlit.app-FF0000?style=for-the-badge&logo=streamlit&logoColor=white)](https://trace-analyzer.streamlit.app)
 ![Detection Methods](https://img.shields.io/badge/Detection_Methods-9-FF6600?style=for-the-badge&labelColor=0A0A0A)
 ![LLM](https://img.shields.io/badge/LLM-LLaMA_3.3_70B-FFD700?style=for-the-badge&labelColor=0A0A0A)
 ![Domains](https://img.shields.io/badge/Domains-Any_Business_CSV-E8E8E8?style=for-the-badge&labelColor=0A0A0A)
